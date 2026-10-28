@@ -6,6 +6,8 @@ format: html
 
 Just a demo! Let's do some analysis on penguins!
 
+Favorite dataset: palmerpenguins
+
 ```{r}
 
 library(tidyverse)
